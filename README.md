@@ -1,1 +1,1 @@
-# rsschool-cv
+https://EsQCrake.github.io/rsschool-cv/cv
