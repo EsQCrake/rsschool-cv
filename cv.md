@@ -27,3 +27,15 @@ public static int getCardsOnTable (Random random, String [] deckCards, Scanner s
         deckCards [randomHandCardsIndex[1]] = null;
         String table = "";
 ```
+*********
+## Education
+
+| Year of graduation | Educational institution      |
+|--------------------|------------------------------|
+| 2019               | **OmGAU** engineer-geodesist |
+| 2021               | **Yandex** QA Engineer       |
+*********
+## Languages
+Russian - Native
+
+English - A2
