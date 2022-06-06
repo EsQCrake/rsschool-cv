@@ -1,1 +1,1 @@
-https://EsQCrake.github.io/rsschool-cv/cv
+https://EsQCrake.github.io/rsschool-cv/
